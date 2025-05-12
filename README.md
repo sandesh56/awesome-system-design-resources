@@ -9,7 +9,7 @@ This repository contains free resources to learn System Design concepts and prep
 ✅ If you are new to System Design, start here: [System Design was HARD until I Learned these 30 Concepts](https://blog.algomaster.io/p/30-system-design-concepts)
 
 ## 📌 System Design Key Concepts
-- [Scalability](https://blog.algomaster.io/p/scalability)
+`-` [Scalability](https://blog.algomaster.io/p/scalability)
 - [Availability](https://blog.algomaster.io/p/system-design-what-is-availability)
 - [CAP Theorem](https://blog.algomaster.io/p/cap-theorem-explained)
 - [ACID Transactions](https://blog.algomaster.io/p/what-are-acid-transactions-in-databases)
